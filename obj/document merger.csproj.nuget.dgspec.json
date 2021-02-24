@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "B:\\Desktop\\CSIT\\c#\\document merger\\document merger.csproj": {}
+    "B:\\Desktop\\CSIT\\C#\\Document Merger\\document merger.csproj": {}
   },
   "projects": {
-    "B:\\Desktop\\CSIT\\c#\\document merger\\document merger.csproj": {
+    "B:\\Desktop\\CSIT\\C#\\Document Merger\\document merger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\Desktop\\CSIT\\c#\\document merger\\document merger.csproj",
+        "projectUniqueName": "B:\\Desktop\\CSIT\\C#\\Document Merger\\document merger.csproj",
         "projectName": "document merger",
-        "projectPath": "B:\\Desktop\\CSIT\\c#\\document merger\\document merger.csproj",
+        "projectPath": "B:\\Desktop\\CSIT\\C#\\Document Merger\\document merger.csproj",
         "packagesPath": "C:\\Users\\charl\\.nuget\\packages\\",
-        "outputPath": "B:\\Desktop\\CSIT\\c#\\document merger\\obj\\",
+        "outputPath": "B:\\Desktop\\CSIT\\C#\\Document Merger\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\charl\\AppData\\Roaming\\NuGet\\NuGet.Config"

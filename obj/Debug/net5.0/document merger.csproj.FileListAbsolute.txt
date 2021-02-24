@@ -1,0 +1,16 @@
+B:\Desktop\CSIT\C#\Document Merger\bin\Debug\net5.0\document merger.exe
+B:\Desktop\CSIT\C#\Document Merger\bin\Debug\net5.0\document merger.deps.json
+B:\Desktop\CSIT\C#\Document Merger\bin\Debug\net5.0\document merger.runtimeconfig.json
+B:\Desktop\CSIT\C#\Document Merger\bin\Debug\net5.0\document merger.runtimeconfig.dev.json
+B:\Desktop\CSIT\C#\Document Merger\bin\Debug\net5.0\document merger.dll
+B:\Desktop\CSIT\C#\Document Merger\bin\Debug\net5.0\ref\document merger.dll
+B:\Desktop\CSIT\C#\Document Merger\bin\Debug\net5.0\document merger.pdb
+B:\Desktop\CSIT\C#\Document Merger\obj\Debug\net5.0\document merger.csprojAssemblyReference.cache
+B:\Desktop\CSIT\C#\Document Merger\obj\Debug\net5.0\document merger.GeneratedMSBuildEditorConfig.editorconfig
+B:\Desktop\CSIT\C#\Document Merger\obj\Debug\net5.0\document merger.AssemblyInfoInputs.cache
+B:\Desktop\CSIT\C#\Document Merger\obj\Debug\net5.0\document merger.AssemblyInfo.cs
+B:\Desktop\CSIT\C#\Document Merger\obj\Debug\net5.0\document merger.csproj.CoreCompileInputs.cache
+B:\Desktop\CSIT\C#\Document Merger\obj\Debug\net5.0\document merger.dll
+B:\Desktop\CSIT\C#\Document Merger\obj\Debug\net5.0\ref\document merger.dll
+B:\Desktop\CSIT\C#\Document Merger\obj\Debug\net5.0\document merger.pdb
+B:\Desktop\CSIT\C#\Document Merger\obj\Debug\net5.0\document merger.genruntimeconfig.cache

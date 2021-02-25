@@ -1,6 +1,5 @@
 ﻿using System;
 using System.IO; 
-//make all arrays 
 namespace document_merger
 {
     public class merger
